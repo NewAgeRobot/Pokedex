@@ -1,0 +1,44 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+}
+#dex{
+  position:fixed;
+}
+
+#searchBar{
+  position:fixed;
+  top:435px;
+  left:465px;
+  font-family:monospace;
+}
+h3{
+  margin-bottom:5px;
+}
+
+#heightWeight{
+  top:165px;
+  left:475px;
+  position:fixed;
+  font-family:monospace;
+}
+
+#sprite{
+  width:150px;
+  height:150px;
+  position:fixed;
+  top:162px;
+  left:100px;
+}
