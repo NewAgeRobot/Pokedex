@@ -7,13 +7,13 @@ I don't know if you were lucky enough to get the actual pokédex toy but I spent
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, PokeAPI
+**Tech used:** HTML, CSS, JavaScript, Speech Synthesis, PokeAPI
 
-This uses a mix of HTML and CSS to position the pokédex graphic, paired with javascript to make calls to the PokeAPI. The PokeAPI contains an absolute ton of data, really puts other APIs to shame. It has every single description for the pokémon throughout every game they exist in. It's crazy.
+This uses a mix of HTML and CSS to position the pokédex graphic, paired with javascript to make calls to the PokeAPI. The PokeAPI contains an absolute ton of data, really puts other APIs to shame. It has every single description for the pokémon throughout every game they exist in. It's crazy. As mentioned above, this pokédex talks! It uses speech synthesis to read aloud the description of the pokémon when it's searched for.
 
 ## Optimizations
 
-As mentioned above, there is so much to do with the API that while this reflects pretty well the Gen 1 pokédex I am working on expanding it to reflect the latest pokédex from the anime which provides a lot more data. I would like this to work as an accompaniment to actually playing the games, rather than having to google for breeding or catching information you could just search here.
+As mentioned above, there is so much to do with the API that while this reflects pretty well the Gen 1 pokédex I am working on expanding it to reflect the latest pokédex from the anime which provides a lot more data. I would like this to work as an accompaniment to actually playing the games, rather than having to google for breeding or catching information you could just search here. I am also working on importing custom voices for the speech synthesis element, to hopefully get it closer to the show's original.
 
 ## Lessons Learned:
 
