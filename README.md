@@ -1,4 +1,4 @@
-# My Awesome Project
+# Pokédex
 I don't know if you were lucky enough to get the actual pokédex toy but I spent an ungodly amount of time playing with it. It didn't even talk, but mine does!
 
 **Link to project:** https://poke-em-all.netlify.app/
