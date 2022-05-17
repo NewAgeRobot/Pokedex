@@ -1,20 +1,20 @@
 # My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+I don't know if you were lucky enough to get the actual pokédex toy but I spent an ungodly amount of time playing with it. It didn't even talk, but mine does!
 
 **Link to project:** https://poke-em-all.netlify.app/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](https://user-images.githubusercontent.com/1900240/168599844-a8196f40-5037-4b10-b6be-f34326f203cd.png)
 
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, PokeAPI
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+This uses a mix of HTML and CSS to position the pokédex graphic, paired with javascript to make calls to the PokeAPI. The PokeAPI contains an absolute ton of data, really puts other APIs to shame. It has every single description for the pokémon throughout every game they exist in. It's crazy.
 
 ## Optimizations
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+As mentioned above, there is so much to do with the API that while this reflects pretty well the Gen 1 pokédex I am working on expanding it to reflect the latest pokédex from the anime which provides a lot more data. I would like this to work as an accompaniment to actually playing the games, rather than having to google for breeding or catching information you could just search here.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+The API has deep pockets and it was legitimately really engaging to work with, as it had a lot of data, some in odd formats that had to be iterated through and parsed out for just what I needed.
